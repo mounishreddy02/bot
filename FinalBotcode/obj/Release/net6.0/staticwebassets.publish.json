@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "sE2AsfS2F/b+K25HalqYpCdI0K5Iohg2Z6s+y3sHLO8=",
+  "Source": "FinalBotcode",
+  "BasePath": "_content/FinalBotcode",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinalBotcode\\wwwroot",
+      "Source": "FinalBotcode",
+      "ContentRoot": "C:\\Users\\mouni\\Downloads\\FinalBotcodeProject\\FinalBotcode\\wwwroot\\",
+      "BasePath": "_content/FinalBotcode",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mouni\\Downloads\\FinalBotcodeProject\\FinalBotcode\\wwwroot\\default.htm",
+      "SourceId": "FinalBotcode",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mouni\\Downloads\\FinalBotcodeProject\\FinalBotcode\\wwwroot\\",
+      "BasePath": "_content/FinalBotcode",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mouni\\Downloads\\FinalBotcodeProject\\FinalBotcode\\wwwroot\\default.htm",
+      "PackagePath": "staticwebassets\\default.htm"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FinalBotcode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FinalBotcode.props",
+      "PackagePath": "build\\FinalBotcode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalBotcode.props",
+      "PackagePath": "buildMultiTargeting\\FinalBotcode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FinalBotcode.props",
+      "PackagePath": "buildTransitive\\FinalBotcode.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

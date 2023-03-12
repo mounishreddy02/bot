@@ -1,0 +1,32 @@
+﻿{
+  "type": "AdaptiveCard",
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.3",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "ChatTicket",
+      "wrap": true,
+      "size": "Large",
+      "color": "Attention",
+      "weight": "Bolder",
+      "horizontalAlignment": "Center",
+      "height": "stretch",
+      "fontType": "Default"
+    },
+    {
+      "type": "Image",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.fqQ_G90zsO-zHjRtVrNtdgHaCv&pid=Api&P=0"
+    },
+    {
+      "type": "TextBlock",
+      "text": "To begin using the ChatTicket, simply type \"Hi\" and I'll be ready to assist you with your ticket booking needs. If at any point you want to stop or quit the conversation, just type \"quit\" and we can start again from the beginning.",
+      "wrap": true,
+      "size": "Default",
+      "weight": "Bolder",
+      "color": "Good",
+      "isSubtle": true,
+      "horizontalAlignment": "Center"
+    }
+  ]
+}
